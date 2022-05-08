@@ -1,2 +1,1 @@
-# Projetos_de_Estudo_DIO
-Projetos de estudos desenvolvidos nos bootcamps da plataforma DIO( Digital Innovation One).
+Projeto desenvolvido com orientação do professor para criar um jogo de naves.
